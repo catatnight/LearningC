@@ -1,2 +1,2 @@
-LearingC
+LearningC
 ========
